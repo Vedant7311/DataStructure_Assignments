@@ -1,19 +1,11 @@
 //Write a program to create a telephone book database of N clients. 
 //Make use of a hash table implementation to quickly look up a client's telephone number.
-
 //CRUD 
-
 //Add new clients
-
 //Search for a client’s phone number by name
-
 //Update a client’s phone number
-
 //Delete a client
-
 //Display all clients
-
-package DS;
 
 import java.util.HashMap;
 import java.util.Scanner;
