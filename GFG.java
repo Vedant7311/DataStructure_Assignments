@@ -1,7 +1,6 @@
-package abc;
-
 //Java code for above approach
-//import java.io.*;
+
+import java.io.*;
 import java.util.*;
 
 class GFG {
