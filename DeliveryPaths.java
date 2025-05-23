@@ -3,12 +3,8 @@
 // Solve the problem by suggesting appropriate data structures. Design necessary class.
 
 // 1. A simple Java program using graph data structures (adjacency list).
-
 // 2. The ability to add houses (nodes) and lanes (edges).
-
 // 3. A function to display all possible paths between two houses.
-
-package DS;
 
 import java.util.*;
 
