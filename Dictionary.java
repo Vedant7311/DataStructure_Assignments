@@ -3,8 +3,6 @@
 
 //CRUD - Create Read Update Delete
 
-package DS;
-
 import java.util.HashMap;
 import java.util.Scanner;
 
